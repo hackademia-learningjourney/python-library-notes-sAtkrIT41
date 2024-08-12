@@ -1,0 +1,26 @@
+A library is a previously compile code scripts that can be used iteratively to save time. In python libraries are open source.
+We can install these libraries with pacakage installation manager such as pip.
+#Pandas:
+Data manipulation and analysis library
+Provides DataFrame and Series data structures
+Useful for handling structured data and time series
+#NumPy:
+Fundamental package for scientific computing
+Offers support for large, multi-dimensional arrays and matrices
+Includes a wide range of mathematical functions
+#TensorFlow:
+Open-source machine learning framework
+Supports deep learning and neural networks
+Flexible ecosystem for building and deploying ML models
+#Keras:
+High-level neural networks API
+Can run on top of TensorFlow, Theano, or Microsoft Cognitive Toolkit
+User-friendly, modular, and extensible
+#scikit-learn (sklearn):
+Machine learning library for classical ML algorithms
+Provides tools for data preprocessing, model selection, and evaluation
+Integrates well with NumPy and SciPy
+#PyTorch:
+Open-source machine learning library
+Dynamic computational graphs and eager execution
+Popular for research and production in deep learning
